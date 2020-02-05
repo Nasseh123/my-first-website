@@ -1,7 +1,7 @@
 h1{
     color:#ff6666;
     text-align: center;
-};x
+}
 h2{
     color:greenyellow;
     font-style: italic;
@@ -16,4 +16,12 @@ ul{
     line-height: 40px;
     font-size: 20px;
     background-color: lightcoral;
+}
+strong{
+    font-style: italic;
+    font-size: 25px;
+}
+em{
+    color:red;
+
 }
